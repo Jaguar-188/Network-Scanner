@@ -24,5 +24,11 @@ for i in mac_lists:
     result = MacLookup().lookup(i)
     mac_vendor_list.append(result)
 
+for i in hosts_lists:
+    print(i)
+    
+for i in mac_lists:
+    print(i)   
+
 for i in mac_vendor_list:
     print(i)
