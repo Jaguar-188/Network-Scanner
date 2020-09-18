@@ -9,7 +9,7 @@ pip/pip3 - a command line python package manager to install and uninstall librar
 
 #1 Install pip/pip3
 
-sudo apt-get install python-pip
+sudo apt-get install python-pip / 
 sudo apt-get install python3-pip
 
 #2 Install nmap library
